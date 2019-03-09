@@ -15,4 +15,4 @@
 
 A figura logo abaixo ilustra o comando sendo executado e o retorno do script:
 
-![alt text](http://url/to/img.png)
+![alt text](./script.png)
