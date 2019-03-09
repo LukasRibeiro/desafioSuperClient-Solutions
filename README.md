@@ -14,3 +14,5 @@
 <h4>OBS: Neste caso o nome do arquivo é “código.js”, e a entrada pode ser qualquer um dos arquivos de texto, que acompanham no diretório.</h4>
 
 A figura logo abaixo ilustra o comando sendo executado e o retorno do script:
+
+![alt text](http://url/to/img.png)
