@@ -9,8 +9,10 @@
 
   <li>Acessar o diretório que contém os arquivos do desafio, (neste caso o nome do diretório que está sendo enviado é “desafio”);</li>
 
-  <li>Logo após acessar o diretório que contém os arquivos do desafio, basta digitar o seguinte comando para execução do programa: node <nome do arquivo.js> <nome da entrada.txt> </li>
+  <li>Logo após acessar o diretório que contém os arquivos do desafio, basta digitar o seguinte comando para execução do programa:
+  <h4> "nome do arquivo.js" "nome da entrada.txt"</h4> </li>
 </ul>
+
 <h4>OBS: Neste caso o nome do arquivo é “código.js”, e a entrada pode ser qualquer um dos arquivos de texto, que acompanham no diretório.</h4>
 
 A figura logo abaixo ilustra o comando sendo executado e o retorno do script:
